@@ -4,14 +4,14 @@ A command-line Rock Paper Scissors game built with Python. The player competes a
 
 ## Features
 
-* 🎮 Play Rock Paper Scissors against the computer
-* 🤖 Computer makes a random choice
-* ✅ Validates the player's input
-* 🔄 Accepts uppercase and lowercase input
-* 🖼️ Displays Rock, Paper and Scissors using ASCII art
-* 📐 Displays the player's and computer's choices side by side
-* 🏆 Determines the winner or a draw
-* ❌ Handles invalid user input
+*  Play Rock Paper Scissors against the computer
+*  Computer makes a random choice
+*  Validates the player's input
+*  Accepts uppercase and lowercase input
+*  Displays Rock, Paper and Scissors using ASCII art
+*  Displays the player's and computer's choices side by side
+*  Determines the winner or a draw
+*  Handles invalid user input
 
 ## Technologies Used
 
